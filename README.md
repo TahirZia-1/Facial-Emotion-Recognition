@@ -52,7 +52,7 @@ The goal is to classify facial expressions from RGB images (96x96) into seven em
 
 *Class Distribution Plot*:  
 ![Class Distribution](images/class_distribution.jpg)  
-(Saved from `facial_expression_recognition.ipynb` as `images/class_distribution.png`.)
+(Saved from `facial_expression_recognition.ipynb` as `images/class_distribution.jpg`.)
 
 ## Installation
 
